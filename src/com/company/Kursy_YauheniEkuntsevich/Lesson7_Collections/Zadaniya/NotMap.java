@@ -5,9 +5,9 @@ public class NotMap {
         System.out.println("GITHUB");
     }
     public void forCommit(){
-        int a=1;
-        int b=1;
-        int c=1;
-        int d=1;
+        int a=3;
+        int b=5;
+        int c=4;
+        int d=6;
     }
 }
