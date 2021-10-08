@@ -6,8 +6,8 @@ public class NotMap {
     }
     public void forCommit(){
         int a=1;
-        int b=1;
+        int b=2;
         int c=1;
-        int d=1;
+        int d=21;
     }
 }
